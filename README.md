@@ -24,7 +24,7 @@ This project is an AI-driven claims automation system developed to streamline in
 - Streamlit (optional UI)
 
 ## ⚙️ How It Works
-
+   
 1. Extracts text from uploaded claim documents  
 2. Applies rule-based or AI-based classification  
 3. Uses routing logic to assign claims to relevant teams  
@@ -44,7 +44,7 @@ This project is an AI-driven claims automation system developed to streamline in
 ---
 
 ## 🔧 To Run Locally
-
+  
 ```bash
 pip install -r requirements.txt
 python smart_claims_processor.py
